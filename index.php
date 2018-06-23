@@ -7,5 +7,4 @@ include_once 'core\app.class.php';
 
 //触发初始化类方法：通常定义静态资源
 \Core\app::run();
-
 ?>
